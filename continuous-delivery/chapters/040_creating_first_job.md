@@ -42,7 +42,7 @@ Lets now create a simple job using jenkins to run a hello world program.
 
 ```
 #!/bin/bash
-echo "Hello World !"
+echo "Hello World!"
 sleep 10
 ```
 
