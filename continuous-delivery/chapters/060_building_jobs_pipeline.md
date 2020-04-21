@@ -55,7 +55,7 @@ To install this plugin,
 
 ![Install Build Pipeline Plugin](images/chap6/pipeline_plugin.jpg)
 
-## Crete Pipeline View
+## Create Pipeline View
 
 Now create a pipeline view.
 
