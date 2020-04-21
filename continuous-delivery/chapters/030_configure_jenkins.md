@@ -52,6 +52,6 @@ Observe the configs  and verify as per the screenshot attached below
 
 
   ----
-  :point_left:[**Prev** Chapter 2: Install Jenkins](https://github.com/schoolofdevops/learn-jenkins/blob/master/continuous-delivery/chapters/020_install_jenkins.md)
+  :point_left:[**Prev** Chapter 2: Install Jenkins](020_install_jenkins.md)
 
-  :point_right: [**Next** Chapter 4: Creating First Project with Jenkins](https://github.com/schoolofdevops/learn-jenkins/blob/master/continuous-delivery/chapters/040_creating_first_job.md)
+  :point_right: [**Next** Chapter 4: Creating First Project with Jenkins](040_creating_first_job.md)

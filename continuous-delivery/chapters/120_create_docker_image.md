@@ -70,6 +70,6 @@ https://github.com/initcron/demo.git
 If everything goes well, this job will create a Docker image and push it to DockerHub registry.
 
 ----
-:point_left:[**Prev** Chapter 11: Static Code Analysis with SonarQube](https://github.com/schoolofdevops/learn-jenkins/blob/vertx-v1/continuous-delivery/chapters/110_static_code_analysis_with_sonarqube.md)
+:point_left:[**Prev** Chapter 11: Static Code Analysis with SonarQube](110_static_code_analysis_with_sonarqube.md)
 
-:point_right: [**Next** Chapter 13: Deploy application Using Docker Compose ](https://github.com/schoolofdevops/learn-jenkins/blob/vertx-v1/continuous-delivery/chapters/130_Deploy_with_Docker_compose.md)
+:point_right: [**Next** Chapter 13: Deploy application Using Docker Compose ](130_Deploy_with_Docker_compose.md)
