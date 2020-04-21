@@ -2,7 +2,7 @@
 
 ## Build Triggers
 
-Build triggers decide when a jenkins job is run. Whether it happens based on a external event e.g. a push to git repository,  a scheduled run, or  a job is run after another job is completed, there are plenty of options to trigger builds.
+Build triggers decide when a jenkins job is run. Whether it happens based on an external event e.g. a push to git repository,  a scheduled run, or  a job is run after another job is completed, there are plenty of options to trigger builds.
 
 From project page, click on **Configure**.
 
@@ -58,7 +58,7 @@ Example: http://admin:552dab89b070c0fcc3fad281c51318ad@10.40.1.14:8080/job/job1/
 
 ## Building Jobs Pipeline
 
-One of the important features of Jenkins is its ability to build a pipeline of jobs, whereas based on the outcome of one job, another can be triggered.  e.g. only if you are able to compile the code, you may want to proceed with testing, else its quiet useless to do so. Using **Build after other projects are built** trigger, this can be easily achieved.  We will be creating a job pipeline using this feature in the next chapter.
+One of the important features of Jenkins is its ability to build a pipeline of jobs, whereas based on the outcome of one job, another can be triggered.  e.g. only if you are able to compile the code, you may want to proceed with testing, else its quite useless to do so. Using **Build after other projects are built** trigger, this can be easily achieved.  We will be creating a job pipeline using this feature in the next chapter.
 
 ## Scheduled Runs
 
