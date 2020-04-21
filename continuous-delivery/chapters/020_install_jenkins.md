@@ -82,4 +82,4 @@ Now we have successfully installed Jenkins and we can proceed with configuration
 
 -----
 
-:point_right: [**Next** Chapter 3: Configure Jenkins](../continuous-delivery/chapters/030_configure_jenkins.md)
+:point_right: [**Next** Chapter 3: Configure Jenkins](chapters/030_configure_jenkins.md)
